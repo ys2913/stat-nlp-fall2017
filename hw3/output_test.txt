@@ -649,7 +649,7 @@ view	NN
 is	VBZ
 that	IN
 the	DT
-Gateses	NNS
+Gateses	NNPS
 are	VBP
 very	RB
 good	JJ
@@ -2106,7 +2106,7 @@ government	NN
 .	.
 '	''
 
-http://www.bigeye.com/111003.htm	CD
+http://www.bigeye.com/111003.htm	NN
 
 http://www.thekcrachannel.com/news/4503872/detail.html	NN
 
@@ -2509,7 +2509,7 @@ site	NN
 about	IN
 los	NN
 angeles	VBZ
-online	RB
+online	JJ
 dating	VBG
 
 you	PRP
@@ -2520,7 +2520,7 @@ out	RP
 :	:
 los	NN
 angeles	VBZ
-online	RB
+online	JJ
 dating	VBG
 
 This	DT
@@ -2546,7 +2546,7 @@ I	PRP
 have	VBP
 a	DT
 free	JJ
-online	NN
+online	JJ
 dating	VBG
 service	NN
 .	.
@@ -2568,7 +2568,7 @@ come	VB
 back	RP
 .	.
 
-Hey	NNP
+Hey	WRB
 I	PRP
 just	RB
 love	VBP
@@ -2613,7 +2613,7 @@ searching	VBG
 for	IN
 dog	NN
 food	NN
-info	NN
+info	IN
 and	CC
 found	VBD
 this	DT
@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	:
 You	PRP
-HAVE	NNP
+HAVE	VBP
 To	TO
 Follow	VB
 The	DT
@@ -2723,7 +2723,7 @@ To	IN
 You	PRP
 .	.
 
-Get-A-Free-House.com	NNP
+Get-A-Free-House.com	JJ
 
 When	WRB
 the	DT
@@ -2961,8 +2961,8 @@ and	CC
 army	NN
 instead	RB
 went	VBD
-to	TO
-al	NN
+to	IN
+al	DT
 -	HYPH
 Qaeda	NNP
 .	.
@@ -3017,8 +3017,8 @@ guns	NNS
 ,	,
 from	IN
 the	DT
-90s	NNS
-Bosnian	JJ
+90s	CD
+Bosnian	NNP
 war	NN
 ,	,
 to	IN
@@ -4214,8 +4214,8 @@ unto	IN
 the	DT
 earth	NN
 ,	,
-"	WDT
-Jeffs	NNP
+"	NNPS
+Jeffs	NNPS
 has	VBZ
 said	VBD
 as	RB
@@ -4645,7 +4645,7 @@ begs	VBZ
 them	PRP
 to	TO
 stop	VB
-intermarrying	VBG
+intermarrying	JJ
 but	CC
 they	PRP
 say	VBP
@@ -5689,7 +5689,7 @@ death	NN
 metal	NN
 paradigm	NN
 ,	,
-er	FW
+er	CC
 ...	:
 morality	NN
 .	.
@@ -7005,7 +7005,7 @@ the	DT
 '	POS
 imaginary	JJ
 '	POS
-Whore	NN
+Whore	NNP
 of	IN
 Babalon	NNP
 and	CC
@@ -7135,7 +7135,7 @@ information	NN
 .	.
 )	)
 
-http://en.wikipedia.org/wiki/John_Balance	NNP
+http://en.wikipedia.org/wiki/John_Balance	NN
 
 http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	CD
 
@@ -7260,8 +7260,8 @@ am	VBP
 therefore	RB
 I	PRP
 think	VBP
-"	TO
-:)	:
+"	AFX
+:)	)
 
 Reporting	NNP
 from	IN
@@ -7743,7 +7743,7 @@ today	NN
 but	CC
 sign	VB
 me	PRP
-TroubleFunk	NNP
+TroubleFunk	JJ
 .	.
 
 Tronicus	NNP
@@ -7793,8 +7793,8 @@ of	IN
 Crowleyan	NNP
 Thelema	NNP
 a	DT
-failed	JJ
-alchemical	NN
+failed	VBD
+alchemical	JJ
 process	NN
 ?	.
 
@@ -8063,8 +8063,8 @@ It	PRP
 boggles	VBZ
 the	DT
 mind	NN
-that	WDT
-ANYONE	RB
+that	IN
+ANYONE	NNP
 can	MD
 take	VB
 at	IN
@@ -9273,7 +9273,7 @@ according	VBG
 to	IN
 the	DT
 local	JJ
-UN	JJ
+UN	NN
 officials	NNS
 .	.
 
@@ -9427,7 +9427,7 @@ photos	NNS
 loose	JJ
 connections	NNS
 to	IN
-AQ	DT
+AQ	NNP
 Kahn	NNP
 and	CC
 Libya	NNP
@@ -9936,7 +9936,7 @@ as	IN
 nearly	RB
 500	CD
 other	JJ
-al	NN
+al	RB
 -	HYPH
 Qaeda	NNP
 operatives	NNS
@@ -10091,8 +10091,8 @@ unlikely	JJ
 ,	,
 as	RB
 with	IN
-most	JJS
-al	NN
+most	RBS
+al	RB
 -	HYPH
 Qaeda	NNP
 crackpot	NN
@@ -10556,7 +10556,7 @@ foreigners	NNS
 Certainly	RB
 ,	,
 the	DT
-Shiites	NNPS
+Shiites	NNS
 already	RB
 hate	VBP
 al	RB
@@ -10587,7 +10587,7 @@ solved	VBN
 to	TO
 avoid	VB
 giving	VBG
-al	RB
+al	DT
 -	HYPH
 Qaeda	NNP
 an	DT
@@ -11195,7 +11195,7 @@ Iraq	NNP
 Ash	NNP
 -	HYPH
 Sharq	NNP
-al	NN
+al	DT
 -	HYPH
 Awsat	NNP
 reports	NNS
@@ -11637,7 +11637,7 @@ few	JJ
 experienced	JJ
 State	NNP
 Department	NNP
-Arabists	NNPS
+Arabists	VBZ
 been	VBN
 allowed	VBN
 in	IN
@@ -11972,7 +11972,7 @@ A	DT
 radical	JJ
 Shiite	NNP
 Muslim	NNP
-cleric	NN
+cleric	JJ
 has	VBZ
 expressed	VBN
 solidarity	NN
@@ -13032,8 +13032,8 @@ in	IN
 Jordan	NNP
 .	.
 
-Secular	NNP
-Arab	NNP
+Secular	JJ
+Arab	JJ
 nationalist	NN
 groups	NNS
 also	RB
@@ -14429,7 +14429,7 @@ administration	NN
 came	VBD
 into	IN
 office	NN
-obsessed	VBN
+obsessed	VBD
 with	IN
 Iraq	NNP
 .	.
@@ -14540,7 +14540,7 @@ by	IN
 al	DT
 -	HYPH
 Gamaa	NNP
-al	NN
+al	DT
 -	HYPH
 Islamiyyah	NNP
 ,	,
@@ -14758,7 +14758,7 @@ in	IN
 the	DT
 CIA	NNP
 and	CC
-counter-terrorism	NN
+counter-terrorism	JJ
 divisions	NNS
 elsewhere	RB
 in	IN
@@ -14912,7 +14912,7 @@ to	TO
 send	VB
 a	DT
 Special	JJ
-Ops	NNS
+Ops	NNP
 team	NN
 in	IN
 after	IN
@@ -16068,7 +16068,7 @@ Worker	NNP
 He	PRP
 would	MD
 wear	VB
-khaki	JJ
+khaki	NNS
 trousers	NNS
 and	CC
 some	DT
@@ -17218,7 +17218,7 @@ development	NN
 
 Abu	NNP
 Musab	NNP
-al	RB
+al	DT
 -	HYPH
 Zarqawi	NNP
 and	CC
@@ -17324,7 +17324,7 @@ Iraq	NNP
 and	CC
 of	IN
 the	DT
-botching	NN
+botching	VBG
 of	IN
 the	DT
 aftermath	NN
@@ -17443,7 +17443,7 @@ the	DT
 al	RB
 -	HYPH
 Jihad	NNP
-al	NN
+al	DT
 -	HYPH
 Islami	NNP
 group	NN
@@ -18002,7 +18002,7 @@ that	IN
 the	DT
 Occupation	NN
 is	VBZ
-emphemeral	NN
+emphemeral	JJ
 .	.
 "	''
 
@@ -18235,7 +18235,7 @@ including	VBG
 Shaikh	NNP
 Abdul	NNP
 Wahhab	NNP
-al	RB
+al	DT
 -	HYPH
 Janabi	NNP
 of	IN
@@ -18758,9 +18758,9 @@ strong	JJ
 enough	RB
 to	TO
 keep	VB
-al	FW
+al	DT
 -	HYPH
-Qaida	FW
+Qaida	NNP
 out	NN
 ,	,
 the	DT
@@ -18778,7 +18778,7 @@ posters	NNS
 for	IN
 al	DT
 -	HYPH
-Qaida	NN
+Qaida	NNP
 with	IN
 young	JJ
 Muslim	NNP
@@ -18816,7 +18816,7 @@ forces	NNS
 killed	VBD
 Shaikh	NNP
 Abdullah	NNP
-al	RB
+al	DT
 -	HYPH
 Ani	NNP
 ,	,
@@ -18843,7 +18843,7 @@ killing	NN
 of	IN
 a	DT
 respected	JJ
-cleric	NN
+cleric	JJ
 will	MD
 be	VB
 causing	VBG
@@ -18998,7 +18998,7 @@ the	DT
 news	NN
 that	IN
 the	DT
-Baathists	NNPS
+Baathists	NNS
 continue	VBP
 to	TO
 penetrate	VB
@@ -19648,7 +19648,7 @@ Iraqis	NNP
 Al	NNP
 -	HYPH
 Sharq	NNP
-al	NN
+al	DT
 -	HYPH
 Awsat	NNP
 reports	NNS
@@ -19810,7 +19810,7 @@ was	VBD
 a	DT
 soothing	JJ
 authoritative	JJ
-UNSCEAR	NNP
+UNSCEAR	NN
 (	(
 United	NNP
 Nations	NNP
@@ -19941,7 +19941,7 @@ on	IN
 Civil	NNP
 Defence	NNP
 ,	,
-Emergencies	NNS
+Emergencies	NNPS
 and	CC
 Elimination	NNP
 of	IN
@@ -19963,7 +19963,7 @@ in	IN
 CHERNOBYL	NNP
 ACCIDENT	NNP
 :	:
-TEN	CD
+TEN	NNP
 YEARS	NNS
 ON	IN
 
@@ -20329,7 +20329,7 @@ http://www.collectinghistory.net/chernobyl/	NN
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
-http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NN
+http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	JJ
 
 http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
 
@@ -21267,7 +21267,7 @@ voice	NN
 will	MD
 be	VB
 heard	VBN
-admidst	NN
+admidst	VB
 the	DT
 higher	JJR
 echelons	NNS
@@ -21319,7 +21319,7 @@ makes	VBZ
 sense	NN
 .	.
 
-Acquiring	VBG
+Acquiring	NNP
 open	JJ
 source	NN
 talent	NN

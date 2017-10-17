@@ -88,7 +88,7 @@ VI	NNP
 -	HYPH
 D	NNP
 -	HYPH
-v	VBN
+v	NNP
 ,	,
 and	CC
 VII	NNP
@@ -1556,7 +1556,7 @@ physical	JJ
 
 That	DT
 his	PRP$
-daddy	NN
+daddy	JJ
 got	VBD
 him	PRP
 in	IN
@@ -3611,7 +3611,7 @@ Israel	NNP
 .	.
 
 The	DT
-Taliban	JJ
+Taliban	NNP
 control	NN
 of	IN
 Afghanistan	NNP
@@ -5464,7 +5464,7 @@ politics	NNS
 and	CC
 diplomacy	NN
 are	VBP
-childish	JJ
+childish	NN
 ,	,
 in	IN
 comparison	NN
@@ -5806,10 +5806,10 @@ the	DT
 world	NN
 .	.
 
-Incitement	NN
+Incitement	NNP
 by	IN
-Arab	JJ
-TV	NN
+Arab	NNP
+TV	NNP
 ,	,
 accompanied	VBN
 by	IN
@@ -7766,7 +7766,7 @@ women	NNS
 more	JJR
 education	NN
 ,	,
-counter-propaganda	NN
+counter-propaganda	JJ
 ,	,
 boycott	NN
 whenever	WRB
@@ -9012,7 +9012,7 @@ as	RB
 many	JJ
 as	IN
 42	CD
-RAW	NNP
+RAW	NN
 agents	NNS
 based	VBN
 in	IN
@@ -9454,14 +9454,14 @@ of	IN
 Kandahar	NNP
 under	IN
 the	DT
-Taliban	JJ
+Taliban	NNP
 regime	NN
 and	CC
 now	RB
 a	DT
 commander	NN
 of	IN
-Taliban	JJ
+Taliban	NNP
 forces	NNS
 while	IN
 Hikmetyar	NNP
@@ -9858,7 +9858,7 @@ anti-army	JJ
 feeling	NN
 in	IN
 the	DT
-tribal	NN
+tribal	JJ
 areas	NNS
 but	CC
 it	PRP
@@ -9897,7 +9897,7 @@ provided	VBN
 actionable	JJ
 intelligence	NN
 about	IN
-Taliban	JJ
+Taliban	NNP
 leaders	NNS
 hiding	VBG
 in	IN
@@ -9924,7 +9924,7 @@ with	IN
 a	DT
 list	NN
 of	IN
-Taliban	JJ
+Taliban	NNP
 extremists	NNS
 and	CC
 their	PRP$
@@ -9966,13 +9966,13 @@ no	DT
 part	NN
 in	IN
 the	DT
-Taliban	JJ
+Taliban	NNP
 insurgency	NN
 .	.
 
 With	IN
 the	DT
-Taliban	JJ
+Taliban	NNP
 failure	NN
 to	TO
 disrupt	VB
@@ -10060,7 +10060,7 @@ little	JJ
 reason	NN
 for	IN
 moderate	JJ
-Taliban	JJ
+Taliban	NNP
 leaders	NNS
 to	TO
 fear	VB
@@ -10202,7 +10202,7 @@ as	RB
 many	JJ
 as	IN
 42	CD
-RAW	NNP
+RAW	NN
 agents	NNS
 based	VBN
 in	IN
@@ -10405,7 +10405,7 @@ as	IN
 his	PRP$
 fellow	JJ
 Panjsheri	NNP
-Tajiks	NNPS
+Tajiks	NNP
 urged	VBD
 him	PRP
 to	TO
@@ -10440,8 +10440,8 @@ the	DT
 elections	NNS
 and	CC
 later	RB
-convincing	JJ
-Qanooni	NNS
+convincing	VBG
+Qanooni	NNP
 to	TO
 do	VB
 the	DT
@@ -10879,7 +10879,7 @@ resisted	VBN
 .	.
 
 Many	JJ
-Taliban	JJ
+Taliban	NNP
 living	NN
 in	IN
 Afghanistan	NNP
@@ -10928,7 +10928,7 @@ giving	VBG
 unlimited	JJ
 sanctuary	NN
 to	IN
-Taliban	JJ
+Taliban	NNP
 extremists	NNS
 living	VBG
 on	IN
@@ -11259,7 +11259,7 @@ do	VB
 likewise	RB
 .	.
 
-Simultaneously	NNP
+Simultaneously	RB
 ,	,
 New	NNP
 Delhi	NNP
@@ -11500,7 +11500,7 @@ except	IN
 for	IN
 the	DT
 tiny	JJ
-jihadi	JJ
+jihadi	NNS
 segment	NN
 patronized	VBN
 by	IN
@@ -11638,16 +11638,16 @@ with	IN
 tales	NNS
 of	IN
 the	DT
-"	JJS
-atrocities	NNS
-"	VBP
+"	FW
+atrocities	FW
+"	FW
 of	IN
 Indian	JJ
 troops	NNS
 on	IN
 the	DT
 innocent	JJ
-jihadis	NN
+jihadis	NNS
 .	.
 
 Despite	IN
@@ -11769,8 +11769,8 @@ Yugoslavia	NNP
 and	CC
 that	IN
 the	DT
-"	JJS
-foreigner	NN
+"	RBS
+foreigner	JJ
 -	HYPH
 led	VBN
 "	NNP
@@ -11920,7 +11920,7 @@ the	DT
 corner	NN
 in	IN
 the	DT
-subcontinent	NN
+subcontinent	JJ
 was	VBD
 China	NNP
 .	.
@@ -13831,7 +13831,7 @@ heavy	JJ
 toll	NN
 on	IN
 the	DT
-Andamans	NNP
+Andamans	NNPS
 .	.
 
 Correspondents	NNS
@@ -14135,7 +14135,7 @@ Blair	NNP
 ,	,
 in	IN
 the	DT
-Andamans	NNP
+Andamans	NNPS
 ,	,
 quoted	VBN
 an	DT
@@ -15386,7 +15386,7 @@ Degree	NNP
 Channel	NNP
 divides	VBZ
 the	DT
-Andamans	NNP
+Andamans	NNPS
 ,	,
 which	WDT
 are	VBP
@@ -15727,7 +15727,7 @@ a	DT
 rumor	NN
 by	IN
 a	DT
-Taliban	JJ
+Taliban	NNP
 source	NN
 that	IN
 at	IN
@@ -16801,7 +16801,7 @@ He	PRP
 believed	VBD
 that	IN
 the	DT
-koran	NN
+koran	JJ
 instructed	VBN
 that	IN
 a	DT
@@ -17476,7 +17476,7 @@ decade	NN
 .	.
 
 The	DT
-confidante	NN
+confidante	JJ
 and	CC
 right	JJ
 -	HYPH
@@ -19001,7 +19001,7 @@ Canada	NNP
 along	RB
 with	IN
 Egyptian	JJ
-al	NN
+al	RB
 -	HYPH
 Maati	NNP
 ,	,
@@ -19245,7 +19245,7 @@ Curveball	NNP
 "	)
 ,	,
 which	WDT
-Alibek	NNP
+Alibek	VBP
 divined	VBN
 to	TO
 be	VB
@@ -20193,7 +20193,7 @@ Egyptian	JJ
 Al	NNP
 -	HYPH
 Gamaa	NNP
-al	NN
+al	DT
 -	HYPH
 Islamiya	NNP
 (	(
@@ -20779,7 +20779,7 @@ Martyrs	NNS
 "	''
 
 A	DT
-FAQ	NNP
+FAQ	NN
 on	IN
 the	DT
 Azzam	NNP
@@ -22818,7 +22818,7 @@ and	CC
 I	PRP
 have	VBP
 already	RB
-overheard	VBN
+overheard	VB
 youngsters	NNS
 in	IN
 my	PRP$
@@ -23184,7 +23184,7 @@ insurgents	NNS
 
 Over	IN
 300	CD
-Iraqis	NNPS
+Iraqis	NNP
 are	VBP
 reported	VBN
 dead	JJ
@@ -24311,8 +24311,8 @@ old	JJ
 timer	NN
 who	WP
 claimed	VBD
-that	DT
-Ba'athists	NNPS
+that	WDT
+Ba'athists	NNS
 have	VBP
 the	DT
 means	VBZ

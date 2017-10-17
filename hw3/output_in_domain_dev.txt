@@ -2612,7 +2612,7 @@ cheered	VBD
 their	PRP$
 favorites	NNS
 and	CC
-booed	VBN
+booed	VBD
 the	DT
 opposition	NN
 ,	,
@@ -2729,7 +2729,7 @@ latter	NN
 although	IN
 it	PRP
 probably	RB
-springs	VBZ
+springs	NNS
 from	IN
 the	DT
 fact	NN
@@ -4499,7 +4499,7 @@ shares	NNS
 of	IN
 Reuters	NNP
 and	CC
-punched	VBN
+punched	VBD
 a	DT
 button	NN
 to	TO
@@ -12308,8 +12308,8 @@ finding	VBG
 workers	NNS
 .	.
 
-CLUBBING	NN
-A	DT
+CLUBBING	NNP
+A	NNP
 FAN	NNP
 was	VBD
 n't	RB
@@ -12497,7 +12497,7 @@ employment	NN
 .	.
 
 PROPOSALS	NNS
-ARISE	JJ
+ARISE	RB
 for	IN
 coping	VBG
 with	IN
@@ -12737,10 +12737,10 @@ they	PRP
 work	VBP
 .	.
 
-SPRUCING	NN
+SPRUCING	VBG
 UP	RP
 THE	DT
-DIGS	NNP
+DIGS	NNS
 :	:
 About	RB
 200	CD
@@ -16057,7 +16057,7 @@ Friday	NNP
 
 The	DT
 grand	JJ
-marshal	NN
+marshal	JJ
 of	IN
 this	DT
 parade	NN
@@ -16922,7 +16922,7 @@ but	CC
 they	PRP
 rode	VBD
 the	DT
-tiger	NN
+tiger	JJR
 up	IN
 all	DT
 year	NN
@@ -20040,7 +20040,7 @@ the	DT
 crash	NN
 .	.
 
-Transports	NNP
+Transports	NNS
 plunged	VBD
 on	IN
 takeover	NN
@@ -20177,7 +20177,7 @@ anyone	NN
 left	VBD
 the	DT
 place	NN
-whistling	NN
+whistling	VBG
 Dixie	NNP
 .	.
 ''	''
@@ -28791,7 +28791,7 @@ they	PRP
 all	RB
 say	VBP
 `	``
-wow	JJ
+wow	UH
 .	.
 '	''
 
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	CD
+M2	NNP
 version	NN
 of	IN
 the	DT
@@ -33349,7 +33349,7 @@ the	DT
 Marxist	JJ
 -	HYPH
 dominated	VBN
-SWAPO	NNP
+SWAPO	NN
 rebels	NNS
 .	.
 
@@ -33564,8 +33564,8 @@ remove	VB
 Cuba	NNP
 's	POS
 ``	``
-Afrika	FW
-Korps	FW
+Afrika	NNP
+Korps	NNP
 ''	''
 from	IN
 Angola	NNP
@@ -33828,7 +33828,7 @@ make	VBP
 certain	JJ
 that	IN
 Mr.	NNP
-O'Linn's	POS
+O'Linn's	NNP
 commission	NN
 investigates	VBZ
 election	NN
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NN
+ex-Attorney	JJ
 General	NNP
 Meese	NNP
 ,	,
